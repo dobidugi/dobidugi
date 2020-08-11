@@ -1,18 +1,10 @@
-### Hi there <div align=right>
+<div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobidugi)](https://hits.seeyoufarm.com) 
 
 </div>
 
-
-
-
-
-
-  
- <br>
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobidugi&hide=c)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobidugi&hide=c)](https://github.com/anuraghazra/github-readme-stats) -->
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dobidugi)](https://github.com/anuraghazra/github-readme-stats)
 
