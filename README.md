@@ -46,7 +46,7 @@ While I work as a full-stack developer in my current role, I'm focusing on study
 
 - AWS Certified Cloud Practitioner - Foundational
 
-- SQL Developer ( SQLP )
+- SQL Developer ( SQLD )
 
 - 정보처리 기능사
 
