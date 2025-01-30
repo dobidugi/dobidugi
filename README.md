@@ -6,11 +6,7 @@
 
 안녕하세요, 풀스택 개발자로 헬스케어 회사에 재직중인 주니어 개발자 이유태 입니다.
 
-현재는 회사에서 풀스택 개발자 역할 맡고있지만, 백엔드 분야로 전향하기 위해 주로 백엔드 관련 기술에 흥미를 갖고 공부 하고 있습니다.
-
 Hi, I'm Yutae Lee, a junior full-stack developer currently working at a healthcare company.
-
-While I work as a full-stack developer in my current role, I'm focusing on studying backend technologies as I aim to transition into backend developer.
 
 ## Tech Stack
 
