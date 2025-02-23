@@ -6,7 +6,7 @@
 
 안녕하세요, 풀스택 개발자로 의료 도메인 회사에 재직중인 주니어 개발자 이유태 입니다.
 
-Hi, I'm Yutae Lee, a junior full-stack developer currently working at a healthcare company.
+Hi, I'm Yutae Lee, a junior full-stack developer currently working at a medical domain company.
 
 ## Tech Stack
 
